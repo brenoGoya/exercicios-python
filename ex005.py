@@ -12,3 +12,4 @@ number_3 = int(input("One more number:\n>> "))
 total = (number_1 + number_2) * number_3
 
 print(f"The answer is {total}.")
+
