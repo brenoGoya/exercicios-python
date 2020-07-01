@@ -4,8 +4,8 @@
 
 # [Name] next birthday you will be [new age].
 
-name = input("What is your name?\n>>")
-age = int(input("What is your age?\n>>"))
+name = input("What is your name?\n>> ").capitalize()
+age = int(input("What is your age?\n>> "))
 
 new_age = age + 1
 
