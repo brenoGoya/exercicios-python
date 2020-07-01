@@ -4,6 +4,7 @@
 times the smaller number goes into the larger number in a user-friendly format. """
 
 larger_number = int(input('Enter a number over 100:\n>> '))
+
 smaller_number = int(input('Enter a number under 10:\n>> '))
 
 answer = larger_number // smaller_number
