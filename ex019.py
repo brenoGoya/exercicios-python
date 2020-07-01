@@ -14,4 +14,3 @@ elif number == 1:
 else:
     print('Error message.')
     
-
