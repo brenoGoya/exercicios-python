@@ -4,8 +4,8 @@
 
 # Hello [First Name] [Surname].
 
-first_name = input("What's your first name? >>> ")
-surname = input("Please type your surname: ")
-print(f"Hello {first_name} {surname}.")
+first_name = input("What's your first name?\n>> ").capitalize()
 
+surname = input("Please type your surname:\n>> ").capitalize()
 
+print(f'Hello, {first_name} {surname}.')
