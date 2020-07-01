@@ -4,5 +4,5 @@
 
 # Hello [Fisrst Name].
 
-first_name = input("What's your first name? >>> ")
+first_name = input("What's your first name?\n>> ")
 print(f"Hello {first_name}.")
