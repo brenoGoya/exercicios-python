@@ -7,6 +7,7 @@ message "Take an umbrella". If they did not answer yes to the first question, di
 your day". """
 
 answer = input('Is it raining today?\n>> ').lower()
+
 if answer == 'yes':
     second_answer = input('Is it windy?\n>> ').lower()
     if second_answer == 'yes':
@@ -15,4 +16,3 @@ if answer == 'yes':
         print('Take an umbrella.')
 else:
     print('Enjoy your day.')
-
