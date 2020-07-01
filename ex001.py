@@ -6,4 +6,3 @@
 
 first_name = input("What's your first name? >>> ")
 print(f"Hello {first_name}.")
-
