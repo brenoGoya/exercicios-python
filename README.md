@@ -1,10 +1,10 @@
-# exercicios-python
+# Python by Example Learning to Program in 150 Challenges
+
+## Nicchola Lacey
 
 Exercícios de Python resolvidos 
 
 Python 3.8
-
-Lista de exercícios do Livro - **Python by Example Learning to Program in 150 Challenges** - *Nicchola Lacey*
 
 ### Exercícios
 
