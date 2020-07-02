@@ -9,6 +9,9 @@ Python 3.8
 ### Exercícios
 
 * **The Basics      - 001 até 011**
+---
 * **If Statements   - 012 até 019**
+---
 * **Strings         - 020 até 026**
+---
 * **Maths           - 027 até 034**
