@@ -15,3 +15,5 @@ Python 3.8
 * **Strings          - 020 até 026**
 ---
 * **Maths            - 027 até 034**
+---
+* **For Loop         - 035 até 044**
