@@ -29,4 +29,8 @@ Python 3.8
 
 * **While Loop       - 045 até 051**
 
+---
+
+* **Random           - 052 até 059**
+
 
