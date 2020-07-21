@@ -33,4 +33,8 @@ Python 3.8
 
 * **Random           - 052 até 059**
 
+---
+
+* **Turtle Graphics  - 060 até 068**
+
 
